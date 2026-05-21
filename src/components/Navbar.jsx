@@ -4,7 +4,7 @@ function Navbar() {
     <div className="flex justify-between items-center w-full px-6 py-4 bg-white/10 border border-white/10 rounded-2xl backdrop-blur-md shadow-2xl">
 
       <div>
-        <h2 className="text-2xl font-bold text-#38bdf8">
+        <h2 className="text-2xl font-bold text-sky blue">
           AI Career Mentor
         </h2>
       </div>
