@@ -2,19 +2,19 @@ function About() {
 
   const teamMembers = [
     {
+      name: "Avinish Kumar Tripathi",
+      role: "Backend Developer",
+      description:
+        "Handles APIs, database, authentication and server logic.",
+    },
+    {
       name: "Soumojit Jati",
       role: "Frontend Developer",
       description:
         "Designs responsive UI using React and Tailwind CSS.",
     },
 
-    {
-      name: "Avinish Kumar Tripathi",
-      role: "Backend Developer",
-      description:
-        "Handles APIs, database, authentication and server logic.",
-    },
-
+    
     {
       name: "Arindam Saha",
       role: "AI & Integration",
