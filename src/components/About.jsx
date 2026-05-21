@@ -9,21 +9,21 @@ function About() {
     },
 
     {
-      name: "Member 2",
+      name: "Avinish Kumar Tripathi",
       role: "Backend Developer",
       description:
         "Handles APIs, database, authentication and server logic.",
     },
 
     {
-      name: "Member 3",
+      name: "Arindam Saha",
       role: "AI & Integration",
       description:
         "Works on AI integration, APIs and smart recommendation systems.",
     },
 
     {
-      name: "Member 4",
+      name: "Mahmadool Hassan",
       role: "Presentation & Data",
       description:
         "Handles documentation, PPT and data management.",
