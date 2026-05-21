@@ -5,7 +5,7 @@ function Hero() {
     <section
       id="home"
       className="
-        min-h-screen
+        min-h-screen pt-32
         flex
         flex-col
         justify-center
