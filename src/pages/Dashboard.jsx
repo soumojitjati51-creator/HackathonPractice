@@ -1,6 +1,6 @@
 import Sidebar from "../components/Sidebar"
 import ChatArea from "../components/ChatArea"
-
+import Topbar from "../components/Topbar"
 function Dashboard() {
 
     return (
@@ -18,7 +18,10 @@ function Dashboard() {
 
             <Sidebar />
 
-            <ChatArea />
+            <div className="flex-1 p-6">
+                <Topbar/>
+                <ChatArea/>
+            </div>
 
         </div>
 
