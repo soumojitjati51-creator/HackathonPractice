@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 function Navbar() {
 
   return (
@@ -49,9 +50,9 @@ function Navbar() {
           </li>
 
           <li>
-            <a href="#login" className="hover:text-blue-400 transition">
+            <Link to="/Login" className="hover:text-blue-400 transition">
               Login
-            </a>
+            </Link>
           </li>
 
           <li>
