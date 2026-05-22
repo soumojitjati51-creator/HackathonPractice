@@ -57,11 +57,11 @@ function Navbar() {
 
           <li>
 
-            <button className="bg-blue-500 px-4 py-2 rounded-xl hover:bg-blue-600 transition">
+            <Link to="/Signup" className="bg-blue-500 px-4 py-2 rounded-xl hover:bg-blue-600 transition">
 
               Sign Up
 
-            </button>
+            </Link>
 
           </li>
 
